@@ -1,0 +1,35 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono, Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "vue-html": "html",
+      "typescript": "typescriptreact"
+    },
+    "css.validate": true,
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "window.zoomLevel": 1.0,
+    "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "explorer.confirmDragAndDrop": false
+  }
